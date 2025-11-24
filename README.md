@@ -1,1 +1,1 @@
-# Unconditional-Symbolic-Music-Generation
+# Unconditional Symbolic Music Generation
